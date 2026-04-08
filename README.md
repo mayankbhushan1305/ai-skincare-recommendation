@@ -1,2 +1,9 @@
-# ai-skincare-recommendation
-AI-based skincare recommendation web application built using Python and Flask. The system analyzes the user's skin type and suggests suitable skincare routines and products through a simple and interactive web interface.
+AI Skincare Recommendation System
+
+Features:
+- Personalized skincare routine
+- Skin type detection via user input
+- Flask-based backend
+- Responsive UI
+
+Live Demo: https://ai-skincare-app.onrender.com
